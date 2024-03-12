@@ -14,7 +14,7 @@
    14  ls
    15  tar -xzf TeamCity-<version>.tar.gz
    16  tar -xzf TeamCity-2022.10.1tar.gz
-   17  tar -xzf TeamCity-2022.10.1.tar.gz
+   17  tar -xzf TeamCity-2023.11.4.tar.gz
    18  ls
    19  sudo mv TeamCity /opt
    20  cd /opt/TeamCity
